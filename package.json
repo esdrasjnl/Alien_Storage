@@ -1,0 +1,14 @@
+{
+  "name": "alie-storage",
+  "version": "1.0.0",
+  "description": "Proyecto_Archivos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esdras",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
