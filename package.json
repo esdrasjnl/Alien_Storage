@@ -10,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esdrasnl/Alien_Storage.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/esdrasnl/Alien_Storage/issues"
+  },
+  "homepage": "https://github.com/esdrasnl/Alien_Storage#readme"
 }
